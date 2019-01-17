@@ -1,0 +1,4 @@
+
+    const apiUrl = "https://api.themoviedb.org/3/movie/550";
+    const apiKey = "99846e28fc271111f758a8e9c8486d0b";";
+    https://api.themoviedb.org/3/movie/now_playing?api_key=99846e28fc271111f758a8e9c8486d0b
